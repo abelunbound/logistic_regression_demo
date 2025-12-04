@@ -1,0 +1,33 @@
+module_names:
+  00_config:
+    - config_experiment
+  01_data_ingestion_cleaning:
+    - ingest
+    - data_pipeline
+    - create_bronze
+    - create_silver
+    - create_gold
+  02_feature_engineering:
+  03_exploratory_data_analysis:
+  04_feature_engineering:
+  05_feature_selection:
+  06_data_preprocessing:
+  07_model_training_and_evaluation:
+    - training
+    - hyperparameter_tuning
+    - evaluation 
+  08_model_serving:
+    - api_endpoint
+    - batch_serving
+  09_model_monitoring:
+    - feature_drift_detection
+    - label_drift
+    - relationship_drift
+    - experiment_logs_tracking
+  10_orchestration:
+    - continous_training
+    - asset_register
+    - schedule_config
+  11_documentation:
+  layout:
+  asset:
