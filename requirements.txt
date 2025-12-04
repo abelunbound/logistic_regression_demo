@@ -1,1 +1,9 @@
 # requirements.txt file
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
+wandb
+imbalanced-learn
+scipy
