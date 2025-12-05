@@ -1,3 +1,3 @@
 # ======================================== 
-# label_drift module in 09_mlops_model_monitoring
+# drift_detection module in 08_mlops_model_monitoring
 # ======================================== 

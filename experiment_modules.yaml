@@ -4,9 +4,6 @@ module_names:
   01_data_ingestion_cleaning:
     - ingest
     - data_pipeline
-    - create_bronze
-    - create_silver
-    - create_gold
   02_feature_engineering:
   03_exploratory_data_analysis:
   04_feature_engineering:
@@ -17,18 +14,18 @@ module_names:
     - training
     - hyperparameter_tuning
     - evaluation 
-  08_mlops_model_serving:
+  08_mlops_model_monitoring:
+    - drift_detection
+    - experiment_logs_tracking
+    - artifact_tracking
+  09_model_serving:
     - api_endpoint
     - batch_inference_pipeline
-  09_mlops_model_monitoring:
-    - feature_drift_detection
-    - label_drift
-    - relationship_drift
-    - experiment_logs_tracking
   10_mlops_orchestration:
     - continous_training
     - asset_register
-    - schedule_config
+    - schedule_ml_pipeline_config
   11_documentation:
+  12_test_suite:
   layout:
   asset:

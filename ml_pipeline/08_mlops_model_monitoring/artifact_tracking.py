@@ -1,3 +1,3 @@
 # ======================================== 
-# batch_inference_pipeline module in 08_mlops_model_serving
+# artifact_tracking module in 08_mlops_model_monitoring
 # ======================================== 

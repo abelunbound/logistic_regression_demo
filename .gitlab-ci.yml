@@ -1,1 +1,23 @@
 # .gitlab-ci.yml file
+
+stages:
+  - test
+  - build
+  - deploy_api_endpoint
+  - deploy_web_app
+
+variables:
+  PROJECT_NAME: "ml_experiment_project"
+  DOCKER_IMAGE: "$CI_REGISTRY_IMAGE/$PROJECT_NAME:$CI_COMMIT_REF_SLUG"
+
+dev_branch:
+  stage: test
+  script:
+    - echo "Running development tests..."
+    - pytest tests/
+  only:
+    - development
+  
+  stage: build
+  stage: deploy_api_endpoint
+  stage: deploy_web_app

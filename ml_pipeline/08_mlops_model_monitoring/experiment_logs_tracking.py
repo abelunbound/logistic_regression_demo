@@ -1,3 +1,3 @@
 # ======================================== 
-# api_endpoint module in 08_mlops_model_serving
+# experiment_logs_tracking module in 08_mlops_model_monitoring
 # ======================================== 

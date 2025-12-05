@@ -1,3 +1,3 @@
 # ======================================== 
-# feature_drift_detection module in 09_mlops_model_monitoring
+# schedule_ml_pipeline_config module in 10_mlops_orchestration
 # ======================================== 
