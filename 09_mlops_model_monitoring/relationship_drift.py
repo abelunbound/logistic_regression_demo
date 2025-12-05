@@ -1,3 +1,3 @@
 # ======================================== 
-# continous_training module in 10_orchestration
+# relationship_drift module in 09_mlops_model_monitoring
 # ======================================== 

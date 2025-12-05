@@ -12,19 +12,20 @@ module_names:
   04_feature_engineering:
   05_feature_selection:
   06_data_preprocessing:
+    - preprocessing_pipeline
   07_model_training_and_evaluation:
     - training
     - hyperparameter_tuning
     - evaluation 
-  08_model_serving:
+  08_mlops_model_serving:
     - api_endpoint
-    - batch_serving
-  09_model_monitoring:
+    - batch_inference_pipeline
+  09_mlops_model_monitoring:
     - feature_drift_detection
     - label_drift
     - relationship_drift
     - experiment_logs_tracking
-  10_orchestration:
+  10_mlops_orchestration:
     - continous_training
     - asset_register
     - schedule_config

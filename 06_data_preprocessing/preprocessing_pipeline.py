@@ -1,3 +1,3 @@
 # ======================================== 
-# asset_register module in 10_orchestration
+# preprocessing_pipeline module in 06_data_preprocessing
 # ======================================== 

@@ -1,3 +1,3 @@
 # ======================================== 
-# api_endpoint module in 08_model_serving
+# create_silver module in 01_data_ingestion_cleaning
 # ======================================== 

@@ -1,3 +1,3 @@
 # ======================================== 
-# relationship_drift module in 09_model_monitoring
+# create_gold module in 01_data_ingestion_cleaning
 # ======================================== 

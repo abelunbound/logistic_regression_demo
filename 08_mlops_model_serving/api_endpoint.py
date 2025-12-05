@@ -1,3 +1,3 @@
 # ======================================== 
-# schedule_config module in 10_orchestration
+# api_endpoint module in 08_mlops_model_serving
 # ======================================== 

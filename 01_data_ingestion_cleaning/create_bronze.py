@@ -1,3 +1,3 @@
 # ======================================== 
-# batch_serving module in 08_model_serving
+# create_bronze module in 01_data_ingestion_cleaning
 # ======================================== 
