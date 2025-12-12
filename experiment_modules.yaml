@@ -25,7 +25,7 @@ module_names:
     - continous_training
     - asset_register
     - schedule_ml_pipeline_config
-  11_documentation:
-  12_test_suite:
+  documentation:
+  test_suite:
   layout:
   asset:
